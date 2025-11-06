@@ -1,3 +1,5 @@
+[中文](./readme_zh.md)
+
 # Halcon Machine Vision-Based License Plate Recognition (LPR)
 
 ## Introduction
