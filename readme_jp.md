@@ -63,6 +63,6 @@ read_ocr_class_mlp('Industrial_0-9A-Z_NoRej.omc', OCRHandle)
 do_ocr_multi_class_mlp(SortedRegions, ImageInvert, OCRHandle, Class, Confidence)
 
 ```
-## スクリーンショット (Screenshots)
+## スクリーンショット
 ![img](./img/1.png)
 ![img](./img/2.png)
